@@ -19,7 +19,19 @@ URLS = {
         "https://www.youtube.com/", 
         "https://v2.scrimba.com/the-ai-engineer-path-c02v", 
         "https://www.netflix.com/login"
-    ]
+    ],
+    "code-help": [
+        "https://www.geeksforgeeks.org/",
+        "https://react.dev/",
+    ],
+    "data-structures-teach": [
+        "https://teachyourselfcs.com/#algorithms",
+        "https://runestone.academy/ns/books/published/pythonds3/Introduction/GettingStartedwithData.html"
+        "https://www.hellointerview.com/learn/code?utm_source=reddit&utm_medium=social&utm_campaign=code-launch"
+    ],
+    "cosc 2436": [
+        "https://canvas.uh.edu/courses/12613"
+    ],
 }
 
 # Default set name: Used if the user doesn't provide a specific set name as a command-line argument.
