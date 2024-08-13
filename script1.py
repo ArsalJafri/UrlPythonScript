@@ -32,6 +32,9 @@ URLS = {
     "cosc 2436": [
         "https://canvas.uh.edu/courses/12613"
     ],
+    "github": [
+        "https://github.com/ArsalJafri"
+    ],
 }
 
 # Default set name: Used if the user doesn't provide a specific set name as a command-line argument.
